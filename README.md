@@ -1,1 +1,0 @@
-# opensw-project
